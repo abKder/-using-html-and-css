@@ -1,0 +1,39 @@
+.bac{
+    background-color:rgba(240, 238, 234, 0.692);
+    margin-left: auto;
+
+    
+}
+nav > ul > li{
+    display: inline;
+    margin-right: 15px;
+}
+nav > ul{
+    margin-right:100px;
+}
+nav li> a{
+    text-decoration: none;
+
+}
+#it{
+    text-align-last: right;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 10s;
+}
+.table{
+    width: 20%;
+}
+.container{
+    margin: 50px;
+}
+#center{
+    margin-left: 45%;
+    width: 35%;
+} 
+figure > img{
+    display: inline;
+    margin-right: 15px;
+}
